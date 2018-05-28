@@ -6,16 +6,28 @@
   The basic machine learning method used for this project is neural network and multi-classification and it is supervised. Data are collected under controlled conditions. It finds the deep learning model in which data are not overfitted and cost is minimized at the same time. The neural network model has two hidden layers of 30 and 25 nodes. The lambda factor for the regularization is set to five. The number of currently tested data is 17478. The overall learning accuracy is 96.22%
 
 
+
+
 # Project Progress
+
   2017 September : 필요 장비 및 센서 탐구
+  
   2017 Octover : 아두이노 및 센서 주문
+  
   2017 November : 아두이노 기기, 센서별 기능 및 header files 연구
+  
   2017 December : 아두이노 기기, 센서별 기능 및 header files 연구
+  
   2018 January : 센서별 최적 Sampling Rate 및 머신러닝기법 연구(Coursera Machine Learning- Stanford University 강의 수강)
+  
   2018 February : 데이터 정형화 방법 연구, 데이터 수집 및 최적 머신러닝 기법 탐구 - SVM vs. Neural Network
+  
   2018 March : 데이터 정형화 방법 연구 및 데이터 수집
+  
   2018 April : 데이터 수집 및 머신러닝
+  
   2018 May : program GUI 작성 및 실험
   
+ 
   
  
