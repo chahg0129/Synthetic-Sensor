@@ -34,3 +34,15 @@
  
   
  
+
+# File Description
+
+- Arduino/Synthetic_Sensor : Arduino code, header files
+
+- Data Collect : collected data for machine learning, collected data for previous tryouts
+
+- NeuralNetwork_MachineLearning : Neural Network machine learning codes
+
+- SVM_MachineLearning : SVM(Support Vector Machine) machine learning codes
+
+- realtime_GUI : GUI codes of the program
