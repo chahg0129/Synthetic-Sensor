@@ -13,19 +13,19 @@
 
 # Project Progress
 
-  2017 September : 필요 장비 및 센서 탐구
+  2017 September : 졸업작품 제안서 작성, 작품 진행 계획 수립, 필요 장비 및 센서 탐구
   
-  2017 Octover : 아두이노 및 센서 주문
+  2017 Octover : 아두이노 프로그래밍 연구 및 아두이노 및 센서 주문
   
   2017 November : 아두이노 기기, 센서별 기능 및 header files 연구
   
   2017 December : 아두이노 기기, 센서별 기능 및 header files 연구
   
-  2018 January : 센서별 최적 Sampling Rate 및 머신러닝기법 연구(Coursera Machine Learning- Stanford University 강의 수강)
+  2018 January : 머신러닝 기법 연구를 위해 Coursera(Stanford University) - Machine Learning 강의 수강, 센서별 최적 Sampling Rate 연구
   
-  2018 February : 데이터 정형화 방법 연구, 데이터 수집 및 최적 머신러닝 기법 탐구 - SVM vs. Neural Network
+  2018 February : 머신러닝 기법 연구를 위해 Coursera(Stanford University) - Machine Learning 강의 수강, 데이터 정형화 방법 연구, 데이터 수집 및 최적 머신러닝 기법 탐구 비교분석(SVM vs. Neural Network)
   
-  2018 March : 데이터 정형화 방법 연구 및 데이터 수집
+  2018 March : 데이터 수집 및 정형화 방법 연구 후 실험 결과 비교 분석
   
   2018 April : 데이터 수집 및 머신러닝
   
